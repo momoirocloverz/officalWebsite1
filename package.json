@@ -30,7 +30,7 @@
     "compression-webpack-plugin": "^2.0.0",
     "image-webpack-loader": "^6.0.0",
     "jsonp": "^0.2.1",
-    "node-sass": "^4.9.0",
+    "node-sass": "^7.0.0",
     "sass-loader": "^7.0.1",
     "vue-template-compiler": "^2.5.17"
   }
